@@ -1,2 +1,2 @@
 # Chat-Room
-A chat box to learn Web Sockets
+A chat Room to learn Web Sockets
